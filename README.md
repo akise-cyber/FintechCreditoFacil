@@ -17,3 +17,5 @@ Máquina preditiva usando random forest
 Avaliar máquina preditiva
 
 Calibrando com hiperparâmetro
+
+Por fim FintechWeb lançando para usuário final poder calcular via webpage.
